@@ -1,1 +1,3 @@
 Comparar tasa de ataque en diferentes grupos
+Para identificar los grupos a priorizar en intervención
+
