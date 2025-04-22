@@ -2,3 +2,4 @@ Comparar tasa de ataque en diferentes grupos
 Para identificar los grupos a priorizar en intervención
 user {sf} para leer información espacial
 Realizar gráficos con {ggplot2}
+ok
